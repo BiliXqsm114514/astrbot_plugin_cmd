@@ -2,4 +2,4 @@ name: astrbot_plugin_cmd
 version: 0.0.1
 desc: 一个允许ai使用本地cmd的 AstrBot 简易插件，目前提供基本cmd调用功能。
 author: BiliXqsm114514
-repo: https://github.com/BiliXqsm114514/LouisKoid/astrbot_plugin_cmd
+repo: https://github.com/BiliXqsm114514/astrbot_plugin_cmd/
