@@ -1,5 +1,5 @@
-name: astrbot_plugin_cmd
-version: 0.0.1
-desc: 一个允许ai使用本地cmd的 AstrBot 简易插件，目前提供基本cmd调用功能。
-author: BiliXqsm114514
-repo: https://github.com/BiliXqsm114514/astrbot_plugin_cmd/
+name: cmd_use # 这是你的插件的唯一识别名。
+desc: 让ai自己用cmd。 # 插件简短描述
+version: v0.0.1 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: BiliXqsm114514 # 作者
+repo: https://github.com/BiliXqsm114514/astrbot_plugin_cmd_use # 插件的仓库地址
